@@ -3,19 +3,7 @@
 <Game_00>
 <Name>Brick Game</Name>
 <Description>Classic 9 in 1 Brick Game</Description>
-<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Brick%20Game.png</Icon>
+<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Brick_Game.png</Icon>
 <URL>https://play.google.com/store/apps/details?id=com.HTCApps.BrickGame</URL>
 </Game_00>
-<Game_01>
-<Name>Color Vision</Name>
-<Description>A simple game but useful for testing your color vision</Description>
-<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Color%20Vision.png</Icon>
-<URL>https://play.google.com/store/apps/details?id=com.Remon.ColorVision</URL>
-</Game_01>
-<Game_02>
-<Name>The World Hardest Game</Name>
-<Description>This is the world's hardest game! It is harder than any game you have ever played, or even will play</Description>
-<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/TWHG.png</Icon>
-<URL>https://play.google.com/store/apps/details?id=com.Remon.TheWorldHardestGame</URL>
-</Game_02>
 </RootNode>
