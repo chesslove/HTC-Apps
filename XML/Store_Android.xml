@@ -2,7 +2,7 @@
 <RootNode>
 <Game_01>
 <Name>Brick Game</Name>
-<Description>Classic 9 in 1 Brick Game\nEasy to play - Hard to master</Description>
+<Description>Classic 9 in 1 Brick Game. Easy to play - Hard to master</Description>
 <Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Brick_Game.png</Icon>
 <URL>https://play.google.com/store/apps/details?id=com.HTCApps.BrickGame</URL>
 </Game_01>
