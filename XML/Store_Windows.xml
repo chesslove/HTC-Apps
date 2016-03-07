@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RootNode>
+<Game_00>
+<Name>Brick Game</Name>
+<Description>Classic 9 in 1 Brick Game. Easy to play - Hard to master.</Description>
+<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Brick_Game.png</Icon>
+<URL>https://www.microsoft.com/store/apps/9nblggh4qfmw</URL>
+</Game_00>
+<Game_98>
+<Name>Epic War 3</Name>
+<Description>Build and upgrade your deck, form a strategy, protect your castle, and crush all who stand in your way!</Description>
+<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Epic_War_3.png</Icon>
+<URL>https://www.microsoft.com/store/apps/9nblggh67dvp</URL>
+</Game_98>
+<Game_99>
+<Name>Epic Incursion</Name>
+<Description>DARKNESS is on the way to enslave the world. Stop it now or never!</Description>
+<Icon>https://raw.githubusercontent.com/chesslove/HTC-Apps/master/Icon/Epic_Incursion.png</Icon>
+<URL>https://www.microsoft.com/store/apps/9wzdncrd37lc</URL>
+</Game_99>
+</RootNode>
