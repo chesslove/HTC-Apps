@@ -1,0 +1,36 @@
+{
+	"rtncode": "200",
+	"msg": "SUCCESS",
+	"result": [{
+		"CATE_ID": "1",
+		"CATE_NAME": "和風"
+	},
+	{
+		"CATE_ID": "2",
+		"CATE_NAME": "シンプル"
+	},
+	{
+		"CATE_ID": "3",
+		"CATE_NAME": "結婚"
+	},
+	{
+		"CATE_ID": "4",
+		"CATE_NAME": "出産"
+	},
+	{
+		"CATE_ID": "5",
+		"CATE_NAME": "家族"
+	},
+	{
+		"CATE_ID": "6",
+		"CATE_NAME": "引越"
+	},
+	{
+		"CATE_ID": "7",
+		"CATE_NAME": "喪中"
+	},
+	{
+		"CATE_ID": "8",
+		"CATE_NAME": "完全オリジナルデータ"
+	}]
+}

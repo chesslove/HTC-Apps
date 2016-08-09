@@ -1,0 +1,18 @@
+{
+	"rtncode": "200",
+	"msg": "SUCCESS",
+	"result": [{
+		"GOODS_ID": "1",
+		"GOODS_NAME": "testCard",
+		"GOODS_CODE": "11",
+		"GOODS_KEY_WORD": "111",
+		"IS_OPEN": "1",
+		"GOODS_CONTENTS": "",
+		"PRICE": "5000",
+		"GOODS_CATES": ",#1#,#2#,#3#",
+		"GOODS_THUM": "http:\/\/www.vivipri.co.jp\/ad\/IMG\/GOODS\/1-16_07_15_8565612.png",
+		"DATE_TIME": "15-JUL-16",
+		"IMG_COUNT": "0",
+		"GOODS_CARD_IMG": "http:\/\/www.vivipri.co.jp\/ad\/IMG\/GOODS\/1-16_07_15.png"
+	}]
+}
