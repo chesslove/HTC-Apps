@@ -1,7 +1,7 @@
 {
   "rtncode": "200",
   "msg": "SUCCESS",
-  "result": {
+  "result": [{
     "CANVAS_ID": "1",
     "GOODS_ID": "1",
     "COUNT": "4",
@@ -20,5 +20,5 @@
     "F_FIELD_1": "CONTENT_1",
     "F_FAMILY_COLOR_1": "2-#333333",
     "F_ALIGN_HV_1": "left-top"
-  }
+  }]
 }
