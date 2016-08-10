@@ -5,25 +5,25 @@
     {
       "FA_ID": "1",
       "FA_NAME": "default",
-      "FA_EN_NAME": "Hiragino Kaku Gothic ProN"
+      "FA_EN_NAME": "Hiragino Kaku Gothic ProN",
 	  "FA_URL": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT\/Hiragino-Kaku-Gothic-ProN.ttf"
     },
     {
       "FA_ID": "2",
       "FA_NAME": "やさしさゴシック",
-      "FA_EN_NAME": "YasashisaGothic"
+      "FA_EN_NAME": "YasashisaGothic",
 	  "FA_URL": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT\/YasashisaGothic.ttf"
     },
     {
       "FA_ID": "3",
       "FA_NAME": "みかちゃん",
-      "FA_EN_NAME": "mikachan"
+      "FA_EN_NAME": "mikachan",
 	  "FA_URL": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT\/mikachan.ttf"
     },
     {
       "FA_ID": "4",
       "FA_NAME": "rounded-mplus-1c-regular",
-      "FA_EN_NAME": "rounded-mplus-1c-regular"
+      "FA_EN_NAME": "rounded-mplus-1c-regular",
 	  "FA_URL": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT\/rounded-mplus-1c-regular.ttf"
     }
   ]
