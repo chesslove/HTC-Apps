@@ -1,0 +1,15 @@
+{
+	"rtncode": "200",
+	"msg": "SUCCESS",
+	"result": {
+		"CANVAS_ID": "3",
+		"GOODS_ID": "3",
+		"COUNT": "1",
+		"FONT_COUNT": "0",
+		"WIDTH": "1748",
+		"HEIGHT": "1181",
+		"INPUT_DATE": "",
+		"IMG_XYWH_1": "208-465-450-450",
+		"https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/design_0015_mask-01.png"
+	}
+}
