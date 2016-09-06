@@ -192,37 +192,9 @@
 		"GOODS_CONTENTS": "",
 		"PRICE": "5",
 		"GOODS_CATES": ",#1#,#2#,#3#",
-		"GOODS_THUM": "http:\/\/www.vivipri.co.jp\/ad\/IMG\/GOODS\/1-16_07_15_8565612.png",
+		"GOODS_THUM": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/1-16_07_15_8565612-Thumb.png",
 		"DATE_TIME": "17-AUG-16",
 		"IMG_COUNT": "4",
-		"GOODS_CARD_IMG": "http:\/\/www.vivipri.co.jp\/ad\/IMG\/GOODS\/1-16_07_15.png"
-	},
-	{
-		"GOODS_ID": "2",
-		"GOODS_NAME": "testCard2",
-		"GOODS_CODE": "22",
-		"GOODS_KEY_WORD": "222",
-		"IS_OPEN": "1",
-		"GOODS_CONTENTS": "",
-		"PRICE": "5",
-		"GOODS_CATES": ",#1#,#2#,#3#",
-		"GOODS_THUM": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/design_0012_th-ura.png",
-		"DATE_TIME": "17-AUG-16",
-		"IMG_COUNT": "1",
-		"GOODS_CARD_IMG": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/design_0012_bg-ura.png"
-	},
-	{
-		"GOODS_ID": "3",
-		"GOODS_NAME": "testCard3",
-		"GOODS_CODE": "33",
-		"GOODS_KEY_WORD": "333",
-		"IS_OPEN": "1",
-		"GOODS_CONTENTS": "",
-		"PRICE": "5",
-		"GOODS_CATES": ",#1#,#2#,#3#",
-		"GOODS_THUM": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/design_0015_th-ura.png",
-		"DATE_TIME": "17-AUG-16",
-		"IMG_COUNT": "1",
-		"GOODS_CARD_IMG": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/design_0015_bg-ura.png"
+		"GOODS_CARD_IMG": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/1-16_07_15_8565612.png"
 	}]
 }
