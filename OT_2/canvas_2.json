@@ -6,10 +6,10 @@
 		"GOODS_ID": "2",
 		"COUNT": "1",
 		"FONT_COUNT": "0",
-		"WIDTH": "1748",
-		"HEIGHT": "1181",
+		"WIDTH": "1766",
+		"HEIGHT": "1211",
 		"INPUT_DATE": "",
-		"IMG_XYWH_1": "130-160-348-348",
-		"IMG_URL_1": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/design_0012_mask-01.png"
+		"IMG_XYWH_1": "365-191-1084-691",
+		"IMG_MASK_1": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/J17001_mask.png"
 	}
 }

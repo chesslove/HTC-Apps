@@ -196,5 +196,19 @@
 		"DATE_TIME": "17-AUG-16",
 		"IMG_COUNT": "4",
 		"GOODS_CARD_IMG": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/1-16_07_15_8565612.png"
+	},
+	{
+		"GOODS_ID": "2",
+		"GOODS_NAME": "testCard",
+		"GOODS_CODE": "11",
+		"GOODS_KEY_WORD": "111",
+		"IS_OPEN": "1",
+		"GOODS_CONTENTS": "",
+		"PRICE": "5",
+		"GOODS_CATES": ",#1#,#2#,#3#",
+		"GOODS_THUM": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/J1700_thum.png",
+		"DATE_TIME": "17-AUG-16",
+		"IMG_COUNT": "1",
+		"GOODS_CARD_IMG": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/J17001.png"
 	}]
 }
