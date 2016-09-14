@@ -1,24 +1,55 @@
 {
-	"rtncode": "200",
-	"msg": "SUCCESS",
-	"result": [{
-		"FA_ID": "1",
-		"FA_NAME": "default",
-		"FA_EN_NAME": "Hiragino Kaku Gothic ProN"
-	},
-	{
-		"FA_ID": "2",
-		"FA_NAME": "やさしさゴシック",
-		"FA_EN_NAME": "YasashisaGothic"
-	},
-	{
-		"FA_ID": "3",
-		"FA_NAME": "みかちゃん",
-		"FA_EN_NAME": "mikachan"
-	},
-	{
-		"FA_ID": "4",
-		"FA_NAME": "rounded-mplus-1c-regular",
-		"FA_EN_NAME": "rounded-mplus-1c-regular"
-	}]
+  "rtncode": "200",
+  "msg": "SUCCESS",
+  "result": [
+    {
+      "FA_ID": "1",
+      "FA_NAME": "IPAex明朝",
+      "FA_EN_NAME": "ipaexm",
+      "IS_BOLD": "",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/ipaexm.ttf"
+    },
+    {
+      "FA_ID": "2",
+      "FA_NAME": "角ゴシック",
+      "FA_EN_NAME": "YasashisaGothic",
+      "IS_BOLD": "",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/YasashisaGothic.ttf"
+    },
+    {
+      "FA_ID": "4",
+      "FA_NAME": "丸ゴシック",
+      "FA_EN_NAME": "rounded_mplus_1c_regular",
+      "IS_BOLD": "",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/rounded_mplus_1c_regular.ttf"
+    },
+    {
+      "FA_ID": "5",
+      "FA_NAME": "手書き",
+      "FA_EN_NAME": "YOzS",
+      "IS_BOLD": "",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/YOzS.ttf"
+    },
+    {
+      "FA_ID": "7",
+      "FA_NAME": "丸ゴシック太字",
+      "FA_EN_NAME": "rounded-mplus-1c-regular_bold",
+      "IS_BOLD": "1",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/rounded-mplus-1c-regular_bold.ttf"
+    },
+    {
+      "FA_ID": "8",
+      "FA_NAME": "手書き太字",
+      "FA_EN_NAME": "YOzs_bold",
+      "IS_BOLD": "1",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/YOzs_bold.ttf"
+    },
+    {
+      "FA_ID": "9",
+      "FA_NAME": "角ゴシック太字",
+      "FA_EN_NAME": "YasashisaGothic_bold",
+      "IS_BOLD": "1",
+      "TTF_URL": "http://vivipri.co.jp/postcard/fonts/YasashisaGothic_bold.ttf"
+    }
+  ]
 }
