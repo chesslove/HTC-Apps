@@ -6,12 +6,14 @@
 		"GOODS_ID": "2",
 		"COUNT": "2",
 		"FONT_COUNT": "0",
-		"WIDTH": "1766",
-		"HEIGHT": "1211",
+		"WIDTH": "1748",
+		"HEIGHT": "1181",
 		"INPUT_DATE": "",
 		"IMG_XYWH_1": "365-191-1084-691",
 		"IMG_MASK_1": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/J17001_mask.png",
 		"IMG_XYWH_2": "1508-41-247-1027",
-		"IMG_MASK_2": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/J17001_mask_2.png"
+		"IMG_MASK_2": "https:\/\/raw.githubusercontent.com\/chesslove\/HTC-Apps\/master\/OT_2\/J17001_mask_2.png",
+		"WIDTH_BORDER": "1600",
+		"HEIGHT_BORDER": "1000"
 	}
 }
